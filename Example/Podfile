@@ -1,0 +1,6 @@
+use_frameworks!
+target 'VCLibrary_Tests' do
+  pod 'VCLibrary', :path => '../'
+  
+  
+end
