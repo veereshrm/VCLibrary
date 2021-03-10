@@ -1,0 +1,16 @@
+PODS:
+  - VCLibrary (0.1.0)
+
+DEPENDENCIES:
+  - VCLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  VCLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VCLibrary: 924c496443a23a33694bb84dec7a5ab4a7c9f50b
+
+PODFILE CHECKSUM: e9fe43aa7bc30f50dc609f2c904775dd957ae6cc
+
+COCOAPODS: 1.10.1
